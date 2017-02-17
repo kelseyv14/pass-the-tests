@@ -2,8 +2,9 @@ var avow = require('avow');
 var moment = require('moment');
 
 // Booleans
-function isTrue(value) {
-    return value;
+function isTrue(a,a) {
+    if ('isTrue returns true', isTrue(1 + 1 === 2) === true);
+    return a + a;
 }
 
 avow('isTrue returns true', isTrue(1 + 1 === 2) === true);
