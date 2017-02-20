@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "avow": "git+https://github.com/tiyindyfee/avow.git",
+    "moment": "^2.17.1"
+  },
+  "name": "d4-data-types",
+  "version": "1.0.0",
+  "description": "moment",
+  "main": "tests.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelseyv14/pass-the-tests.git"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "kv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelseyv14/pass-the-tests/issues"
+  },
+  "homepage": "https://github.com/kelseyv14/pass-the-tests#readme"
+}
